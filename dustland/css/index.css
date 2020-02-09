@@ -1,0 +1,159 @@
+body{
+    background-image: url("https://www.wallpaperflare.com/static/9/948/1022/dark-souls-iii-dark-souls-gothic-midevil-wallpaper.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.logo{
+    width: 6%;
+    height: auto;
+    margin: 12px;
+    border-radius: 5px;
+    border: 2px solid rgb(221, 205, 171);
+    float: left;
+}
+
+.title{
+    font-size: 40px;
+}
+
+h1{
+    background-color: rgb(54, 54, 54);
+    border: 2px solid rgb(221, 205, 171);
+    border-radius: 5px;
+    width: 80%;
+    text-align: center;
+    color: rgb(221, 205, 171);
+    margin-left: 10%;
+    margin-top: 2%;
+}
+
+h2{
+    background-color: rgba(0, 0, 0, 0.5);
+    border-radius: 5px;
+    width: 80%;
+    height: auto;
+    color: rgb(221, 205, 171);
+    margin-left: 10%;
+    margin-top: 2%;
+    padding: 5px;
+    text-align: center;
+    font-size: 26px;
+}
+
+h3{
+    background-color: rgb(54, 54, 54);
+    border: 2px solid rgb(221, 205, 171);
+    border-radius: 5px;
+    text-align: center;
+    color: rgb(221, 205, 171);
+}
+
+.container{
+    margin-left: 10%;
+}
+
+.historyList{
+    background-color: rgba(0, 0, 0, 0.5);
+    border-radius: 5px;
+    width: auto;
+    height: auto;
+    color: rgb(221, 205, 171);
+    padding: 5px;
+    text-align: center;
+    margin-top: 2%;
+}
+
+.newsList{
+    background-color: rgba(0, 0, 0, 0.5);
+    border-radius: 5px;
+    width: auto;
+    height: auto;
+    color: rgb(221, 205, 171);
+    padding: 5px;
+    text-align: center;
+    margin-top: 2%;
+}
+
+.forumList{
+    background-color: rgba(0, 0, 0, 0.5);
+    border-radius: 5px;
+    width: auto;
+    height: auto;
+    color: rgb(221, 205, 171);
+    padding: 5px;
+    text-align: center;
+    margin-top: 2%;
+}
+
+.navbar-brand{
+    display: flex;
+    float: left;
+    width: 60px;
+}
+
+ul.nav.navbar-nav{
+    display: inline;
+    width: 50%;
+    margin-top: -25%;
+}
+
+.navbar-header{
+    width: 350px;
+    margin-top: -25%;
+    margin-left: 5%;
+}
+
+li{
+    float: left;
+    width: 175px;
+    height: 45px;  
+}
+
+.container-fluid{
+    background-color: rgb(172, 156, 122);
+    border: 5px solid rgb(221, 205, 171);
+    border-radius: 5px;
+    text-align: center;
+    margin-left: 10%;
+    color: rgb(54, 54, 54);
+    background-image: url("https://digital.nls.uk/learning/scots-plague-buik/img/content/home-banner.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 400px;
+    width: 1100px;
+}
+
+.form-control{
+    height: 40px;
+    margin-left: -150px;
+    border: 2px solid rgb(172, 156, 122);
+}
+
+
+
+.iconSearch{
+    width: 50px;
+    border: 2px solid rgb(172, 156, 122);
+    border-radius: 5px;
+}
+
+.form-group{
+    margin-right: 100px;
+}
+
+a{
+    text-decoration: none;
+    color: rgb(221, 205, 171);
+    background-color: rgb(54, 54, 54);
+    border-radius: 5px;
+    border: 2px solid rgb(221, 205, 171);
+    padding: 5px;
+}
+
+a:hover{
+    text-decoration: none;
+    background-color: rgb(221, 205, 171);
+    border: 2px solid rgb(54, 54, 54);
+    color: rgb(54, 54, 54);
+}
